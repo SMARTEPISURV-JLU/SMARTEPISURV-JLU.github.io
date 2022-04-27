@@ -1,4 +1,5 @@
-## 欢迎访问吉林大学智能流调项目主页<br/>Welcome to the homepage of Jilin University's Smart Epidemiological survey Project
+## 欢迎访问吉林大学智能流调项目主页
+## Welcome to the homepage of Jilin University's Smart Epidemiological survey Project
 感谢您的下载和试用我们的软件，如果您有任何使用问题或建议，请联系我们：  
 Thank you for downloading and trying our software, if you have any questions or suggestions, please contact us:
 ### 联系方式  Contact Information
