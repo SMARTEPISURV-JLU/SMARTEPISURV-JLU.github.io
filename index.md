@@ -23,7 +23,7 @@ Syntax highlighted code block -->
 
 如果您想进一步了解我们的用户使用协议与隐私协议，请访问：[用户隐私协议](protocol.md)
 
-版权信息 Copyright©2017-2020 吉林大学 符号计算与知识工程教育部重点实验室
+版权信息 Copyright©2022 吉林大学 符号计算与知识工程教育部重点实验室
 
 <!-- - List
 
