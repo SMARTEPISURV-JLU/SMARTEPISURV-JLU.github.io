@@ -7,7 +7,7 @@ Thank you for downloading and trying our software, if you have any questions or 
 - **E-mail：** smart_episurv_jlu@163.com
 - **地址：** 中国 吉林省 长春市 朝阳区 前进大街 吉林大学 计算机学院
 - **Address：** College of Computer Science and Technology, Jilin University, Qianjin Street, Chaoyang District, Changchun City, Jilin Province, China
-### 其他信息  Other Information
+  
 - 如果您想进一步了解我们的用户使用协议与隐私协议，请访问：[用户隐私协议](protocol.md)
 - If you want to know more about our user agreement and privacy agreement, please visit: [User Privacy Agreement](protocol.md)
 - 版权信息 Copyright©2022 吉林大学 符号计算与知识工程教育部重点实验室
